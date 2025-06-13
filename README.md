@@ -70,7 +70,6 @@
 <body>
 
 <div class="container">
-    <h1>🧠 Teste de Funções em JavaScript</h1>
 
     <div class="funcao">
         <h2>🔢 1. Maior e Menor Valor</h2>
