@@ -70,7 +70,7 @@
 <body>
 
 <div class="container">
-    <h1>🧠 Teste de Funções em JavaScript</h1>
+    <h1>Teste de Funções em JavaScript</h1>
 
     <div class="funcao">
         <h2>🔢 1. Maior e Menor Valor</h2>
@@ -140,7 +140,7 @@
         const numeros = [a, b, c, d, e];
         const maior = Math.max(...numeros);
         const menor = Math.min(...numeros);
-        return `📈 Maior: ${maior} | 📉 Menor: ${menor}`;
+        return `Maior: ${maior} | Menor: ${menor}`;
     }
 
     function executarMaiorMenor() {
@@ -175,7 +175,7 @@
                 soma += i;
             }
         }
-        return `🔢 Pares: [${pares.join(', ')}] | Soma: ${soma}`;
+        return `Pares: [${pares.join(', ')}] | Soma: ${soma}`;
     }
 
     function executarLimites() {
